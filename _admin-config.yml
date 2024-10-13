@@ -1,0 +1,5 @@
+# Admin plugin configuration
+admin:
+  username: admin  # 用戶名
+  password_hash: $2a$10$7Fmg9GALa3jnK6mldeB.5uUur4LQ6pVFrFAliAirJBz3iMEvT0WaK  # 123456 的哈希值
+  secret:   # 任意設置密鑰
